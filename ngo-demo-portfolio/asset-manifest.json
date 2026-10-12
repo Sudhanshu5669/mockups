@@ -1,0 +1,165 @@
+{
+  "provenance": "AI-generated illustrative imagery for fictional NGO demos",
+  "assets": [
+    {
+      "key": "sakhi-circle",
+      "prompt": "Portrait-oriented editorial photograph for a fictional Indian women's empowerment NGO demo. A small group of adult rural Rajasthani women in muted terracotta, cream and ochre saris, sitting together in a shaded village courtyard, sharing a ledger and a warm conversation. Respectful, candid, agency and camaraderie, warm natural daylight. Central subjects fit both tall arch crop and landscape crop. Realistic documentary aesthetic, no text, no logos.",
+      "file": "images/sakhi-circle.webp"
+    },
+    {
+      "key": "vanya-forest",
+      "prompt": "Wide editorial nature photograph for an Indian conservation NGO demo: lush misty Western Ghats forest canopy in Kodagu, layers of native rainforest trees and soft morning fog, olive and sage greens, peaceful diffused daylight, realistic detailed foliage, no people, no text, no logos.",
+      "file": "images/vanya-forest.webp"
+    },
+    {
+      "key": "neer-boat",
+      "prompt": "Editorial photograph for a fictional rural health NGO demo. A modest wooden clinic boat with a small white cabin and blue trim moored on a broad calm Brahmaputra riverbank in Assam at dawn. Two Indian healthcare workers carrying medical bags on the deck. Soft monsoon blue-grey palette, realistic boat construction, dignified candid scene, wide composition with boat centrally framed, no lettering, logos or watermarks.",
+      "file": "images/neer-boat.webp"
+    },
+    {
+      "key": "ujala-bicycle",
+      "prompt": "Portrait-oriented editorial photograph for a fictional Indian girls' education NGO demo. A confident Indian schoolgirl aged 13 standing beside her bicycle on a rural Uttar Pradesh lane at golden hour, modest blue school uniform and backpack, looking toward camera, natural candid smile. Warm saffron and ivory light, leafy village background, subject and bicycle centered for tall arched crops. Dignified uplifting documentary aesthetic, no text, no logos.",
+      "file": "images/ujala-bicycle.webp"
+    },
+    {
+      "key": "sakhi-craft",
+      "prompt": "Close-up of an adult Indian woman artisan's hands pressing a wooden block onto terracotta patterned cotton in a village workshop, natural warm daylight, tactile handmade fabric, editorial documentary photograph, no text.",
+      "file": "images/sakhi-craft.webp"
+    },
+    {
+      "key": "sakhi-phone",
+      "prompt": "Three adult rural Indian women learning phone banking together, one woman showing a smartphone to two peers in a shaded courtyard, warm cream and terracotta palette, respectful candid editorial photograph, no readable text.",
+      "file": "images/sakhi-phone.webp"
+    },
+    {
+      "key": "sakhi-legal",
+      "prompt": "Adult Indian woman paralegal in a simple cotton kurta discussing documents with two adult village women at a courtyard table, respectful candid legal literacy workshop, warm natural daylight, editorial photograph, no readable text.",
+      "file": "images/sakhi-legal.webp"
+    },
+    {
+      "key": "sakhi-dairy",
+      "prompt": "Portrait of a confident middle-aged Indian woman dairy entrepreneur in a muted ochre sari, standing beside metal milk churns in a clean rural dairy courtyard, warm morning light, central waist-up portrait, natural expression, realistic editorial photograph, no text.",
+      "file": "images/sakhi-dairy.webp"
+    },
+    {
+      "key": "vanya-saplings",
+      "prompt": "Editorial wide photograph of young native tree saplings planted closely in dark soil in a Western Ghats community reforestation plot, leafy forest beyond, overcast soft light, muted olive green palette, no text.",
+      "file": "images/vanya-saplings.webp"
+    },
+    {
+      "key": "vanya-seeds",
+      "prompt": "Editorial close photograph of open glass jars and earthen bowls of heirloom rice, millet and pulses on a rustic wood shelf at an Indian community seed bank, muted sage and ochre palette, natural side light, detailed textures, no labels or text.",
+      "file": "images/vanya-seeds.webp"
+    },
+    {
+      "key": "vanya-river",
+      "prompt": "Wide editorial landscape photograph of a gently flowing shallow river with smooth rocks and native riparian forest in Karnataka's Western Ghats, serene soft daylight, mossy sage and olive greens, no text.",
+      "file": "images/vanya-river.webp"
+    },
+    {
+      "key": "vanya-hornbill",
+      "prompt": "Realistic wildlife editorial photograph of a great Indian hornbill perched on a branch in lush Western Ghats forest, clear detailed bird, large yellow casque and curved beak, dark feathers, soft leafy olive green background, no text.",
+      "file": "images/vanya-hornbill.webp"
+    },
+    {
+      "key": "vanya-keeper",
+      "prompt": "Portrait of an elderly Indian woman farmer in a muted green cotton sari at a community seed bank in Karnataka, holding an earthen bowl of heirloom rice, confident expression, natural daylight, centered waist-up framing, respectful realistic editorial photograph, no text.",
+      "file": "images/vanya-keeper.webp"
+    },
+    {
+      "key": "vanya-leader",
+      "prompt": "Portrait of a middle-aged Indian male village panchayat leader in a plain ivory shirt standing in a restored forest grove, calm friendly expression, soft olive green background, realistic editorial photograph, no text.",
+      "file": "images/vanya-leader.webp"
+    },
+    {
+      "key": "neer-worker",
+      "prompt": "Portrait of an Indian female community health worker from Assam in a simple teal cotton kurta with a medical bag beside a clinic boat, confident relaxed expression, cool morning river light, centered waist-up editorial photograph, no text.",
+      "file": "images/neer-worker.webp"
+    },
+    {
+      "key": "neer-clinic",
+      "prompt": "Interior of a modest clean riverboat medical clinic in Assam, Indian female doctor with stethoscope speaking to an adult woman patient, daylight through windows, practical medical supplies, cool blue grey and teal colors, realistic editorial photograph, no text.",
+      "file": "images/neer-clinic.webp"
+    },
+    {
+      "key": "neer-motherhood",
+      "prompt": "Indian female community nurse talking with a pregnant adult woman in a clean rural maternal health center in Odisha, seated conversational scene, respectful hopeful mood, soft daylight, teal and ivory tones, realistic editorial photograph, no text.",
+      "file": "images/neer-motherhood.webp"
+    },
+    {
+      "key": "neer-training",
+      "prompt": "Small group of Indian female ASHA health workers practicing a blood pressure check in a rural training room with a tablet on the desk, natural daylight, documentary editorial photograph, teal and blue grey tones, no readable text.",
+      "file": "images/neer-training.webp"
+    },
+    {
+      "key": "neer-nutrition",
+      "prompt": "Adult Indian female community health worker and two women tending an iron-rich vegetable kitchen garden near Assam tea plantations, leafy greens and cool soft daylight, hopeful respectful realistic editorial photograph, no text.",
+      "file": "images/neer-nutrition.webp"
+    },
+    {
+      "key": "neer-volunteers",
+      "prompt": "Indian adult male and female volunteers loading neat medical supply crates onto a modest wooden clinic boat at an Assam riverbank, practical teamwork, overcast morning, cool teal blue grey palette, realistic editorial photograph, no text.",
+      "file": "images/neer-volunteers.webp"
+    },
+    {
+      "key": "ujala-anjali",
+      "prompt": "Close portrait of a confident 13-year-old Indian schoolgirl in a modest light blue school uniform, relaxed natural smile, leafy rural Uttar Pradesh schoolyard background, warm daylight, head and shoulders centered with generous space around head for circle crops, dignified realistic editorial photograph, no text.",
+      "file": "images/ujala-anjali.webp"
+    },
+    {
+      "key": "ujala-ruksar",
+      "prompt": "Close portrait of an 11-year-old Indian schoolgirl with dark braided hair in a modest ivory and navy school uniform holding a mathematics notebook, confident curious natural expression, Bihar schoolyard background, warm soft daylight, face centered with generous space for circular crops, dignified realistic editorial photograph, no text.",
+      "file": "images/ujala-ruksar.webp"
+    },
+    {
+      "key": "ujala-cohort",
+      "prompt": "Wide editorial photograph of an adult Indian woman teacher standing with eight smiling schoolgirls in modest school uniforms and two bicycles outside a simple rural school, warm natural sunlight, dignified candid group photograph with everyone centered, no text.",
+      "file": "images/ujala-cohort.webp"
+    },
+    {
+      "key": "ujala-founder",
+      "prompt": "Head and shoulders portrait of a middle-aged Indian woman NGO founder with dark hair threaded with silver, wearing an ochre cotton sari, relaxed confident expression, softly blurred warm ivory courtyard, natural daylight, face centered with generous room for circle crop, realistic photograph, no text.",
+      "file": "images/ujala-founder.webp"
+    },
+    {
+      "key": "ujala-pooja",
+      "prompt": "Head and shoulders portrait of a young adult Indian woman teacher in a muted rose cotton kurta, dark hair loosely tied, warm confident smile, soft warm ivory school background, natural daylight, face centered with generous room for circle crop, realistic photograph, no text.",
+      "file": "images/ujala-pooja.webp"
+    },
+    {
+      "key": "ujala-farah",
+      "prompt": "Head and shoulders portrait of an adult Indian woman health advisor wearing a simple ivory kurta with stethoscope and glasses, dark hair tied back, thoughtful friendly expression, warm plain clinic background, natural daylight, face centered with generous room for circle crop, realistic photograph, no text.",
+      "file": "images/ujala-farah.webp"
+    },
+    {
+      "key": "ujala-ravi",
+      "prompt": "Head and shoulders portrait of an adult Indian man finance professional in a simple blue cotton shirt, short dark hair, relaxed friendly expression, warm neutral office background, natural daylight, face centered with generous room for circle crop, realistic photograph, no text.",
+      "file": "images/ujala-ravi.webp"
+    },
+    {
+      "key": "ujala-classroom",
+      "prompt": "Wide editorial photograph of a young adult Indian woman teacher in a muted rose kurta helping schoolgirls with notebooks in a simple bright rural classroom, confident students in modest navy and ivory uniforms, candid educational scene, warm daylight, no readable text.",
+      "file": "images/ujala-classroom.webp"
+    },
+    {
+      "key": "ujala-mothers",
+      "prompt": "Wide editorial photograph of adult Indian mothers and a woman facilitator seated in a rural school courtyard discussing school health and sanitation, warm muted saffron and rose cotton saris, natural daylight, dignified engaged expressions, no text.",
+      "file": "images/ujala-mothers.webp"
+    },
+    {
+      "key": "ujala-flood",
+      "prompt": "Wide realistic editorial photograph of two Indian schoolgirls in modest school uniforms with backpacks walking on a safe raised dry path beside a flooded rural field in Bihar after monsoon, adults nearby in background, cloudy warm soft light, resilience and everyday education, no danger or distress, no text.",
+      "file": "images/ujala-flood.webp"
+    },
+    {
+      "key": "ujala-letter",
+      "prompt": "Wide candid editorial photograph of an Indian teenage schoolgirl in a modest blue school uniform writing a letter in a notebook at a wooden classroom desk beside a bright window, thoughtful hopeful expression, warm ivory and saffron daylight, no readable text.",
+      "file": "images/ujala-letter.webp"
+    },
+    {
+      "key": "ujala-families",
+      "file": "images/ujala-families.webp",
+      "prompt": "Fathers and mothers discussing school health and dignity with a community educator in a rural Bihar school courtyard."
+    }
+  ]
+}
